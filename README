@@ -1,0 +1,4 @@
+A backend application made by using node js in which users can login, logout and create their posts.
+login, logout and signup are made with the help of jwt auth first we will encrypt the password using bcrypt and pass it via cookie using jwt.
+it also has database association used to link multiple databases together where users can create and store their posts.
+their is some work still left. will update it soon.
